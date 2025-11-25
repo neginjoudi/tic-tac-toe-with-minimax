@@ -19,8 +19,9 @@ This guarantees the AI will never lose.
 2. Install required library:
 ```bash
 pip install pillow
-
+```
 3. Run the game script:
+```bash
 python tictactoe.py
 
 
