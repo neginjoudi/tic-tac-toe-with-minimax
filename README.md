@@ -20,8 +20,7 @@ This guarantees the AI will never lose.
 ```bash
 pip install pillow
 
-3.Run the game script:
-```bash
+3. Run the game script:
 python tictactoe.py
 
 
