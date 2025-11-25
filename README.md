@@ -15,10 +15,12 @@ This guarantees the AI will never lose.
 
 # How to Run the Game
 
-1. Install Python 
+1. Install Python
 2. Install required library:
+```bash
 pip install pillow
-3.Run the game script:
+
 python tictactoe.py
+
 
 
